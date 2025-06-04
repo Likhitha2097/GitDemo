@@ -53,6 +53,13 @@ public class SelIntro {
 			a.findElement(By.id("chkboxOne")).click();
 			//locator using regular expression through xpath
 			a.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
+			
+			
+			
+			
+			a.findElement(By.id("chkboxOne")).click();
+			//locator using regular expression through xpath
+			a.findElement(By.xpath("//button[contains(@class,'submit')]")).click();
 
 
 		}
