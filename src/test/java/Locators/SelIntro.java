@@ -34,8 +34,16 @@ public class SelIntro {
 			
 			System.out.println(a.findElement(By.cssSelector("form p")).getText());
 			
+			System.out.println(a.findElement(By.cssSelector("form p")).getText());
+
+			System.out.println(a.findElement(By.cssSelector("form p")).getText());
 			
+			System.out.println(a.findElement(By.cssSelector("form p")).getText());
 			
+			System.out.println(a.findElement(By.cssSelector("form p")).getText());
+
+
+
 
 			a.findElement(By.xpath("//div[@class='forgot-pwd-btn-conainer']/button[1]")).click();
 			Thread.sleep(1000);
